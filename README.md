@@ -21,9 +21,9 @@ These are my major open-source contributions. Each represents a deep dive into a
 
 | Project | Description | Tech Stack | Key Concept |
 | :--- | :--- | :--- | :--- |
-| **[🧠 Easy-Learn](https://github.com/AlexeyL54/easy-learn)** | A **from-scratch neural network library** in C++. Built for education and experimentation, supporting modular layers, multiple activation functions, and full backpropagation. | C++17, CMake | ML Fundamentals, Custom Backprop, Model Serialization |
+| **[🧠 Easy-Learn](https://github.com/AlexeyL54/easy-learn)** | A **from-scratch neural network library** in C++. Built for education and experimentation, supporting modular layers, multiple activation functions, and full backpropagation. | C++17, Makefile | ML Fundamentals, Custom Backprop, Model Serialization |
 | **[🛠️ SimpleDAG](https://github.com/AlexeyL54/SimpleDAG)** | A lightweight **data pipeline orchestrator** inspired by Airflow. Processes CSV data via a user-defined DAG of operations configured in YAML. | C++17, YAML, Graph Theory | DAG Scheduling, Data Processing, System Design |
-| **[📖 Upcoming](https://github.com/AlexeyL54)** *(In Progress)* | A high-performance software for Russian sentence analysis (**part of sentence classification**) using deep learning models, combining C++ and Python. | C++, Python, PyTorch | Low-Latency Inference, Multilingual NLP, C++/Python Binding |
+| **[📖 Upcoming](https://github.com/AlexeyL54)** *(In Progress)* | A high-performance software for Russian sentence analysis (**part of sentence classification**) using deep learning models, combining C++ and Python. | C++, Python, PyTorch, ONNX, transformers | Low-Latency Inference, Multilingual NLP, C++/Python Binding |
 
 ---
 
